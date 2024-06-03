@@ -1,3 +1,4 @@
+import streamlit as st
 from openai import OpenAI
 import os
 from assistant_instructions import instructions
